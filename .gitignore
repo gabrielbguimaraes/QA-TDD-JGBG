@@ -1,0 +1,25 @@
+# Python virtual environment
+.venv/
+venv/
+ENV/
+
+# Python bytecode and caches
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# Coverage reports
+.coverage
+.coverage.*
+htmlcov/
+*.coverage
+coverage.xml
+
+# IDE / OS
+.idea/
+.vscode/
+*.swp
+*~
+.DS_Store
+Thumbs.db
